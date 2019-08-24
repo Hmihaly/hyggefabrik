@@ -1,6 +1,6 @@
 <?php
 
-    $to = 'support@heartandhomage.com';
+    $to = 'toth.a.90@gmail.com';
     $firstname = $_POST["firstName"];
     $lastname = $_POST["lastName"];
     $email= $_POST["email"];

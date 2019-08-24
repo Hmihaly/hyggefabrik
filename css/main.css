@@ -756,7 +756,7 @@ h1,h2,h3,h4,h5,h6{
     bottom:0
 }
 .banner-area{
-    background:url(../img/bg_img_wide.jpg) center;
+    background:url(../img/header_bg.png) center;
     background-size:cover
 }
 @media (max-width:767px){
@@ -849,7 +849,7 @@ h1,h2,h3,h4,h5,h6{
     right:0;
     width:50%;
     height:100%;
-    background:url(../img/67769562_359521078057923_4798314244497997824_n.jpg) no-repeat center center/cover;
+    background:url(../img/core_img.jpg) no-repeat center center/cover;
     z-index:1
 }
 @media (max-width:991px){
@@ -2725,12 +2725,12 @@ a.buy-now {
     position: absolute;
     right: 0;
     bottom: -60px;
-    background: #703435;
-    background-image: -webkit-linear-gradient(top, #703435, #3D1C1D);
-    background-image: -moz-linear-gradient(top, #703435, #3D1C1D);
-    background-image: -ms-linear-gradient(top, #703435, #3D1C1D);
-    background-image: -o-linear-gradient(top, #703435, #3D1C1D);
-    background-image: linear-gradient(to bottom, #703435, #3D1C1D);
+    background: #118497;
+    background-image: -webkit-linear-gradient(top, #118497, #006378);
+    background-image: -moz-linear-gradient(top, #118497, #006378);
+    background-image: -ms-linear-gradient(top, #118497, #006378);
+    background-image: -o-linear-gradient(top, #118497, #006378);
+    background-image: linear-gradient(to bottom, #118497, #006378);
     -webkit-border-radius: 12px;
     -moz-border-radius: 12px;
     border-radius: 12px;
@@ -2749,13 +2749,13 @@ a.buy-now {
     z-index: 10;
 }
 .buy-now:hover {
-    background: #3D1C1D;
+    background: #006378;
     color: #FFFFFF;
-    background-image: -webkit-linear-gradient(top, #3D1C1D, #703435);
-    background-image: -moz-linear-gradient(top, #3D1C1D, #703435);
-    background-image: -ms-linear-gradient(top, #3D1C1D, #703435);
-    background-image: -o-linear-gradient(top, #3D1C1D, #703435);
-    background-image: linear-gradient(to bottom, #3D1C1D, #703435);
+    background-image: -webkit-linear-gradient(top, #006378, #118497);
+    background-image: -moz-linear-gradient(top, #006378, #118497);
+    background-image: -ms-linear-gradient(top, #006378, #118497);
+    background-image: -o-linear-gradient(top, #006378, #118497);
+    background-image: linear-gradient(to bottom, #006378, #118497);
     text-decoration: none;
 }
 .buy-now:visited {
