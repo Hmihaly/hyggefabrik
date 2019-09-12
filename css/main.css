@@ -760,7 +760,7 @@ h1,h2,h3,h4,h5,h6{
     bottom:0
 }
 .banner-area{
-    background:url(../img/header_bg.png) center;
+    background:url(../img/header_bg2.png) center;
     background-size:cover
 }
 @media (max-width:767px){
@@ -2723,7 +2723,7 @@ body.mobile-nav-active #mobile-nav-toggle{
 }
 .bickham {
     font-family: "Bickham Script Std";
-    font-size: 40px;
+    font-size: 38px;
     line-height: 1;
 }
 a.buy-now {
