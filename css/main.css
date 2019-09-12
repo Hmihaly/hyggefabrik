@@ -559,8 +559,8 @@ h1,h2,h3,h4,h5,h6{
     background:#fff!important
 }
 #logo{
-    max-width:500px;
-    margin-top: 90px;
+    max-width:300px;
+    margin-top: 250px;
 }
 #header #logo h1{
     font-size:34px;
