@@ -636,7 +636,7 @@ h1,h2,h3,h4,h5,h6{
     display:inline-block;
     color:#222;
     font-weight:400;
-    font-size:12px;
+    font-size:10px;
     text-transform:uppercase;
     outline:0
 }
@@ -1485,16 +1485,6 @@ h1,h2,h3,h4,h5,h6{
 #nav-menu-container{
     margin:0
 }
-.nav-menu a{
-    padding:0 8px 0 8px;
-    text-decoration:none;
-    display:inline-block;
-    color:#222;
-    font-weight:400;
-    font-size:12px;
-    text-transform:uppercase;
-    outline:0
-}
 .nav-menu>li{
     margin-left:10px
 }
@@ -2304,16 +2294,6 @@ h1,h2,h3,h4,h5,h6{
 }
 #nav-menu-container{
     margin:0
-}
-.nav-menu a{
-    padding:0 8px 0 8px;
-    text-decoration:none;
-    display:inline-block;
-    color:#222;
-    font-weight:400;
-    font-size:12px;
-    text-transform:uppercase;
-    outline:0
 }
 .nav-menu>li{
     margin-left:10px
